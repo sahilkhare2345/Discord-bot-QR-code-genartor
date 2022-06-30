@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/sahilkhare2345/Discord-bot-QR-code-genartor.git"
+    "url": "git+https://https://github.com/sahilkhare2345/Discord-bot-QR-code-generator.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sahilkhare2345/Discord-bot-QR-code-genartor/issues"
+    "url": "https://github.com/sahilkhare2345/Discord-bot-QR-code-generator/issues"
   },
-  "homepage": "https://github.com/sahilkhare2345/Discord-bot-QR-code-genartor#readme",
+  "homepage": "https://github.com/sahilkhare2345/Discord-bot-QR-code-generator#readme",
   "dependencies": {
     "@discordjs/builders": "^0.8.2",
     "@discordjs/rest": "^0.1.0-canary.0",
